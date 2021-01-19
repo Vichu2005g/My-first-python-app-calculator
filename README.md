@@ -7,6 +7,10 @@ And this is created to pratice programming and to create a new git hub repo. You
 
 I am also gonna add lot of features as I progress in python.
 
+For ppl who don't know how to run python file, Download the file as zip and extract it. go to the file path on windows explorer where the clac.py file is. at top, you might see  the file path of the file. Clck that and enter cmd and you will be prompted to windows command promt. Now all you have to do is enter python clac.py ad that's it! Make sure that you have python installed on your computer. If you didn't then go to python website and download the latest version. For pictures, click this following link,
+
+https://imgur.com/a/ATFW0ng
+
 New Stuff added:
 
 january 19th 2021: 
