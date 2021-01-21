@@ -1,4 +1,4 @@
-# My-first-python-app-claclator-
+# My-first-python-app-calculator-
 This is a calculator with addition, subtraction, multiplication and division (there are more stuff I added. check below to see).  This is the first code i've written. 
 
 This is not too advanced one. its really simple. Just open the python file (only with terminal not by double clicking because i found out that my script is not showing the output or answer of question) and follow the instructions of it!
